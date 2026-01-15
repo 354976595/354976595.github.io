@@ -14,12 +14,6 @@ des
 1. 第一项
 2. 第二项
 
-```python
-print("Hello")
-```
-
-
-`print()`
 
 [链接文字](https://example.com)
 
